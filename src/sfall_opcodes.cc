@@ -1,5 +1,6 @@
 #include "sfall_opcodes.h"
 
+#include <cmath>
 #include <string.h>
 
 #include "animation.h"

@@ -1,6 +1,7 @@
 #include "options.h"
 
 #include <algorithm>
+#include <cmath>
 
 #include "art.h"
 #include "color.h"
